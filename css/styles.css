@@ -135,7 +135,9 @@ a {
     text-transform: capitalize;
 }
 
-.our-team-list {
+.our-team-list {}
+
+.our-team-li {
     background-color: #FFFFFF;
 }
 
